@@ -1,0 +1,20 @@
+{
+  "background": "#101B2B",
+  "panel": "#15202E",
+  "text": "#E8EDF2",
+  "muted": "#9BAFC4",
+  "grid": "#334D6E",
+  "palette": [
+    "#5BA37A",
+    "#4A7FB5",
+    "#8B6BBF",
+    "#C49A3C",
+    "#C46B6B",
+    "#64748B"
+  ],
+  "heading_size": 20,
+  "kpi_size": 18,
+  "section_size": 10,
+  "expansion_index": 0,
+  "channel_recommendation": "none"
+}

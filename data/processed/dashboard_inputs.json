@@ -1,0 +1,384 @@
+{
+  "KPI": {
+    "arr": 3803829,
+    "mrr": 316986,
+    "customers": 7043,
+    "active": 5174,
+    "arpu": 64.76,
+    "blendedCac": 376,
+    "blendedLtv": 2744,
+    "ltvCac": 7.3,
+    "payback": 7.7,
+    "monthlyChurn": 0.82,
+    "nrr": 94.2,
+    "grossMargin": 78.5,
+    "burnMultiple": 1.2
+  },
+  "COHORT_HEATMAP": [
+    {
+      "cohort": "Q1 2023",
+      "size": 892,
+      "m0": 100,
+      "m1": 82,
+      "m2": 72,
+      "m3": 65,
+      "m4": 60,
+      "m5": 56,
+      "m6": 52,
+      "m7": 50,
+      "m8": 48,
+      "m9": 46,
+      "m10": 44,
+      "m11": 43,
+      "m12": 42
+    },
+    {
+      "cohort": "Q2 2023",
+      "size": 845,
+      "m0": 100,
+      "m1": 80,
+      "m2": 70,
+      "m3": 63,
+      "m4": 58,
+      "m5": 55,
+      "m6": 51,
+      "m7": 49,
+      "m8": 47,
+      "m9": 45,
+      "m10": 43,
+      "m11": 42,
+      "m12": 41
+    },
+    {
+      "cohort": "Q3 2023",
+      "size": 910,
+      "m0": 100,
+      "m1": 83,
+      "m2": 73,
+      "m3": 67,
+      "m4": 62,
+      "m5": 58,
+      "m6": 55,
+      "m7": 52,
+      "m8": 50,
+      "m9": 48,
+      "m10": 47,
+      "m11": null,
+      "m12": null
+    },
+    {
+      "cohort": "Q4 2023",
+      "size": 878,
+      "m0": 100,
+      "m1": 85,
+      "m2": 76,
+      "m3": 69,
+      "m4": 64,
+      "m5": 61,
+      "m6": 57,
+      "m7": 55,
+      "m8": 53,
+      "m9": null,
+      "m10": null,
+      "m11": null,
+      "m12": null
+    },
+    {
+      "cohort": "Q1 2024",
+      "size": 935,
+      "m0": 100,
+      "m1": 84,
+      "m2": 75,
+      "m3": 68,
+      "m4": 63,
+      "m5": 59,
+      "m6": 56,
+      "m7": null,
+      "m8": null,
+      "m9": null,
+      "m10": null,
+      "m11": null,
+      "m12": null
+    },
+    {
+      "cohort": "Q2 2024",
+      "size": 920,
+      "m0": 100,
+      "m1": 86,
+      "m2": 77,
+      "m3": 71,
+      "m4": 66,
+      "m5": null,
+      "m6": null,
+      "m7": null,
+      "m8": null,
+      "m9": null,
+      "m10": null,
+      "m11": null,
+      "m12": null
+    },
+    {
+      "cohort": "Q3 2024",
+      "size": 880,
+      "m0": 100,
+      "m1": 87,
+      "m2": 78,
+      "m3": null,
+      "m4": null,
+      "m5": null,
+      "m6": null,
+      "m7": null,
+      "m8": null,
+      "m9": null,
+      "m10": null,
+      "m11": null,
+      "m12": null
+    },
+    {
+      "cohort": "Q4 2024",
+      "size": 783,
+      "m0": 100,
+      "m1": 88,
+      "m2": null,
+      "m3": null,
+      "m4": null,
+      "m5": null,
+      "m6": null,
+      "m7": null,
+      "m8": null,
+      "m9": null,
+      "m10": null,
+      "m11": null,
+      "m12": null
+    }
+  ],
+  "MRR_WATERFALL": [
+    {
+      "month": "Jul",
+      "newMrr": 42000,
+      "expansion": 8200,
+      "contraction": -3100,
+      "churn": -18500,
+      "net": 28600,
+      "period": "2024-07"
+    },
+    {
+      "month": "Aug",
+      "newMrr": 45000,
+      "expansion": 9100,
+      "contraction": -2800,
+      "churn": -17200,
+      "net": 34100,
+      "period": "2024-08"
+    },
+    {
+      "month": "Sep",
+      "newMrr": 38000,
+      "expansion": 7800,
+      "contraction": -3400,
+      "churn": -19100,
+      "net": 23300,
+      "period": "2024-09"
+    },
+    {
+      "month": "Oct",
+      "newMrr": 51000,
+      "expansion": 10200,
+      "contraction": -2600,
+      "churn": -16800,
+      "net": 41800,
+      "period": "2024-10"
+    },
+    {
+      "month": "Nov",
+      "newMrr": 48000,
+      "expansion": 11500,
+      "contraction": -3200,
+      "churn": -17500,
+      "net": 38800,
+      "period": "2024-11"
+    },
+    {
+      "month": "Dec",
+      "newMrr": 35000,
+      "expansion": 6800,
+      "contraction": -4100,
+      "churn": -20200,
+      "net": 17500,
+      "period": "2024-12"
+    },
+    {
+      "month": "Jan",
+      "newMrr": 52000,
+      "expansion": 12000,
+      "contraction": -2900,
+      "churn": -16200,
+      "net": 44900,
+      "period": "2025-01"
+    },
+    {
+      "month": "Feb",
+      "newMrr": 49000,
+      "expansion": 10800,
+      "contraction": -3300,
+      "churn": -17800,
+      "net": 38700,
+      "period": "2025-02"
+    },
+    {
+      "month": "Mar",
+      "newMrr": 55000,
+      "expansion": 13200,
+      "contraction": -2700,
+      "churn": -15900,
+      "net": 49600,
+      "period": "2025-03"
+    }
+  ],
+  "CHANNELS": [
+    {
+      "ch": "Organic Search",
+      "cust": 1998,
+      "pct": 28.4,
+      "cac": 179,
+      "ltv": 2481,
+      "ratio": 13.9,
+      "payback": 3,
+      "churn": 27.5,
+      "health": "Scale"
+    },
+    {
+      "ch": "Content",
+      "cust": 1039,
+      "pct": 14.8,
+      "cac": 240,
+      "ltv": 2609,
+      "ratio": 10.9,
+      "payback": 3.9,
+      "churn": 27.1,
+      "health": "Scale"
+    },
+    {
+      "ch": "Referral",
+      "cust": 947,
+      "pct": 13.4,
+      "cac": 277,
+      "ltv": 3095,
+      "ratio": 11.2,
+      "payback": 4,
+      "churn": 26.9,
+      "health": "Scale"
+    },
+    {
+      "ch": "Paid Search",
+      "cust": 1321,
+      "pct": 18.8,
+      "cac": 480,
+      "ltv": 2657,
+      "ratio": 5.5,
+      "payback": 7.4,
+      "churn": 26.2,
+      "health": "Healthy"
+    },
+    {
+      "ch": "Paid Social",
+      "cust": 878,
+      "pct": 12.5,
+      "cac": 562,
+      "ltv": 2438,
+      "ratio": 4.3,
+      "payback": 9.3,
+      "churn": 27,
+      "health": "Watch"
+    },
+    {
+      "ch": "Partnerships",
+      "cust": 860,
+      "pct": 12.2,
+      "cac": 757,
+      "ltv": 3578,
+      "ratio": 4.7,
+      "payback": 9.3,
+      "churn": 24.4,
+      "health": "Watch"
+    }
+  ],
+  "BENCHMARKS": {
+    "ltvCac": {
+      "good": 3,
+      "great": 5,
+      "orbit": 7.3
+    },
+    "payback": {
+      "good": 18,
+      "great": 12,
+      "orbit": 7.7
+    },
+    "monthlyChurn": {
+      "good": 3,
+      "great": 1.5,
+      "orbit": 0.82
+    },
+    "nrr": {
+      "good": 100,
+      "great": 120,
+      "orbit": 94.2
+    }
+  },
+  "billing": [
+    {
+      "label": "Monthly",
+      "churn": 42.7,
+      "m12": 50.8
+    },
+    {
+      "label": "Annual",
+      "churn": 11.3,
+      "m12": 93.1
+    },
+    {
+      "label": "2-Year",
+      "churn": 2.8,
+      "m12": 96.5
+    }
+  ],
+  "playbooks": [
+    {
+      "name": "Retention-First",
+      "ltv": 3430,
+      "cac": 376,
+      "ratio": 9.1,
+      "arr": 520000,
+      "cost": 180000,
+      "roi": "2.9x"
+    },
+    {
+      "name": "Channel Rebalance",
+      "ltv": 2744,
+      "cac": 310,
+      "ratio": 8.9,
+      "arr": null,
+      "cost": 0,
+      "roi": "Immediate"
+    },
+    {
+      "name": "Annual Push",
+      "ltv": 3840,
+      "cac": 376,
+      "ratio": 10.2,
+      "arr": 780000,
+      "cost": 95000,
+      "roi": "8.2x"
+    }
+  ],
+  "channel_targets": {
+    "cac": 310,
+    "ratio": 9.5,
+    "annual_savings": 175000,
+    "payback": 5.8
+  },
+  "provenance": {
+    "customer_data": "IBM Telco snapshot; simulated acquisition channels and CAC",
+    "scenarios": "Quarterly heatmap, MRR movements, NRR, gross margin, burn multiple, channel churn, billing retention and playbooks are illustrative inputs, not measured event histories."
+  }
+}

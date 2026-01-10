@@ -1,0 +1,3234 @@
+{
+  "overall_retention": [
+    {
+      "month": 0,
+      "retained_pct": 100.0
+    },
+    {
+      "month": 1,
+      "retained_pct": 99.8
+    },
+    {
+      "month": 2,
+      "retained_pct": 91.1
+    },
+    {
+      "month": 3,
+      "retained_pct": 87.8
+    },
+    {
+      "month": 4,
+      "retained_pct": 84.9
+    },
+    {
+      "month": 5,
+      "retained_pct": 82.4
+    },
+    {
+      "month": 6,
+      "retained_pct": 80.5
+    },
+    {
+      "month": 7,
+      "retained_pct": 79.0
+    },
+    {
+      "month": 8,
+      "retained_pct": 77.1
+    },
+    {
+      "month": 9,
+      "retained_pct": 75.4
+    },
+    {
+      "month": 10,
+      "retained_pct": 73.7
+    },
+    {
+      "month": 11,
+      "retained_pct": 72.0
+    },
+    {
+      "month": 12,
+      "retained_pct": 70.6
+    },
+    {
+      "month": 13,
+      "retained_pct": 69.0
+    },
+    {
+      "month": 14,
+      "retained_pct": 67.4
+    },
+    {
+      "month": 15,
+      "retained_pct": 66.3
+    },
+    {
+      "month": 16,
+      "retained_pct": 64.9
+    },
+    {
+      "month": 17,
+      "retained_pct": 63.8
+    },
+    {
+      "month": 18,
+      "retained_pct": 62.6
+    },
+    {
+      "month": 19,
+      "retained_pct": 61.2
+    },
+    {
+      "month": 20,
+      "retained_pct": 60.1
+    },
+    {
+      "month": 21,
+      "retained_pct": 59.1
+    },
+    {
+      "month": 22,
+      "retained_pct": 58.2
+    },
+    {
+      "month": 23,
+      "retained_pct": 57.0
+    },
+    {
+      "month": 24,
+      "retained_pct": 55.8
+    },
+    {
+      "month": 25,
+      "retained_pct": 54.4
+    },
+    {
+      "month": 26,
+      "retained_pct": 53.3
+    },
+    {
+      "month": 27,
+      "retained_pct": 52.2
+    },
+    {
+      "month": 28,
+      "retained_pct": 51.2
+    },
+    {
+      "month": 29,
+      "retained_pct": 50.3
+    },
+    {
+      "month": 30,
+      "retained_pct": 49.3
+    },
+    {
+      "month": 31,
+      "retained_pct": 48.3
+    },
+    {
+      "month": 32,
+      "retained_pct": 47.4
+    },
+    {
+      "month": 33,
+      "retained_pct": 46.4
+    },
+    {
+      "month": 34,
+      "retained_pct": 45.5
+    },
+    {
+      "month": 35,
+      "retained_pct": 44.6
+    },
+    {
+      "month": 36,
+      "retained_pct": 43.3
+    },
+    {
+      "month": 37,
+      "retained_pct": 42.6
+    },
+    {
+      "month": 38,
+      "retained_pct": 41.7
+    },
+    {
+      "month": 39,
+      "retained_pct": 40.8
+    },
+    {
+      "month": 40,
+      "retained_pct": 40.1
+    },
+    {
+      "month": 41,
+      "retained_pct": 39.1
+    },
+    {
+      "month": 42,
+      "retained_pct": 38.2
+    },
+    {
+      "month": 43,
+      "retained_pct": 37.2
+    },
+    {
+      "month": 44,
+      "retained_pct": 36.3
+    },
+    {
+      "month": 45,
+      "retained_pct": 35.6
+    },
+    {
+      "month": 46,
+      "retained_pct": 34.7
+    },
+    {
+      "month": 47,
+      "retained_pct": 33.7
+    },
+    {
+      "month": 48,
+      "retained_pct": 32.7
+    },
+    {
+      "month": 49,
+      "retained_pct": 31.8
+    },
+    {
+      "month": 50,
+      "retained_pct": 30.9
+    },
+    {
+      "month": 51,
+      "retained_pct": 29.9
+    },
+    {
+      "month": 52,
+      "retained_pct": 28.9
+    },
+    {
+      "month": 53,
+      "retained_pct": 27.8
+    },
+    {
+      "month": 54,
+      "retained_pct": 26.8
+    },
+    {
+      "month": 55,
+      "retained_pct": 25.8
+    },
+    {
+      "month": 56,
+      "retained_pct": 24.9
+    },
+    {
+      "month": 57,
+      "retained_pct": 23.8
+    },
+    {
+      "month": 58,
+      "retained_pct": 22.9
+    },
+    {
+      "month": 59,
+      "retained_pct": 21.9
+    },
+    {
+      "month": 60,
+      "retained_pct": 21.1
+    },
+    {
+      "month": 61,
+      "retained_pct": 20.0
+    },
+    {
+      "month": 62,
+      "retained_pct": 18.9
+    },
+    {
+      "month": 63,
+      "retained_pct": 17.9
+    },
+    {
+      "month": 64,
+      "retained_pct": 16.9
+    },
+    {
+      "month": 65,
+      "retained_pct": 15.7
+    },
+    {
+      "month": 66,
+      "retained_pct": 14.7
+    },
+    {
+      "month": 67,
+      "retained_pct": 13.4
+    },
+    {
+      "month": 68,
+      "retained_pct": 12.0
+    },
+    {
+      "month": 69,
+      "retained_pct": 10.6
+    },
+    {
+      "month": 70,
+      "retained_pct": 9.2
+    },
+    {
+      "month": 71,
+      "retained_pct": 7.6
+    },
+    {
+      "month": 72,
+      "retained_pct": 5.1
+    }
+  ],
+  "retention_by_plan": [
+    {
+      "month": 0,
+      "retained_pct": 100.0,
+      "segment": "Starter"
+    },
+    {
+      "month": 1,
+      "retained_pct": 99.7,
+      "segment": "Starter"
+    },
+    {
+      "month": 2,
+      "retained_pct": 87.8,
+      "segment": "Starter"
+    },
+    {
+      "month": 3,
+      "retained_pct": 84.5,
+      "segment": "Starter"
+    },
+    {
+      "month": 4,
+      "retained_pct": 81.1,
+      "segment": "Starter"
+    },
+    {
+      "month": 5,
+      "retained_pct": 78.4,
+      "segment": "Starter"
+    },
+    {
+      "month": 6,
+      "retained_pct": 76.6,
+      "segment": "Starter"
+    },
+    {
+      "month": 7,
+      "retained_pct": 74.9,
+      "segment": "Starter"
+    },
+    {
+      "month": 8,
+      "retained_pct": 72.9,
+      "segment": "Starter"
+    },
+    {
+      "month": 9,
+      "retained_pct": 70.9,
+      "segment": "Starter"
+    },
+    {
+      "month": 10,
+      "retained_pct": 69.4,
+      "segment": "Starter"
+    },
+    {
+      "month": 11,
+      "retained_pct": 67.3,
+      "segment": "Starter"
+    },
+    {
+      "month": 12,
+      "retained_pct": 65.8,
+      "segment": "Starter"
+    },
+    {
+      "month": 13,
+      "retained_pct": 63.5,
+      "segment": "Starter"
+    },
+    {
+      "month": 14,
+      "retained_pct": 61.8,
+      "segment": "Starter"
+    },
+    {
+      "month": 15,
+      "retained_pct": 60.9,
+      "segment": "Starter"
+    },
+    {
+      "month": 16,
+      "retained_pct": 59.2,
+      "segment": "Starter"
+    },
+    {
+      "month": 17,
+      "retained_pct": 58.0,
+      "segment": "Starter"
+    },
+    {
+      "month": 18,
+      "retained_pct": 56.7,
+      "segment": "Starter"
+    },
+    {
+      "month": 19,
+      "retained_pct": 55.2,
+      "segment": "Starter"
+    },
+    {
+      "month": 20,
+      "retained_pct": 53.8,
+      "segment": "Starter"
+    },
+    {
+      "month": 21,
+      "retained_pct": 52.5,
+      "segment": "Starter"
+    },
+    {
+      "month": 22,
+      "retained_pct": 51.7,
+      "segment": "Starter"
+    },
+    {
+      "month": 23,
+      "retained_pct": 50.5,
+      "segment": "Starter"
+    },
+    {
+      "month": 24,
+      "retained_pct": 49.2,
+      "segment": "Starter"
+    },
+    {
+      "month": 25,
+      "retained_pct": 47.8,
+      "segment": "Starter"
+    },
+    {
+      "month": 26,
+      "retained_pct": 46.3,
+      "segment": "Starter"
+    },
+    {
+      "month": 27,
+      "retained_pct": 45.3,
+      "segment": "Starter"
+    },
+    {
+      "month": 28,
+      "retained_pct": 44.3,
+      "segment": "Starter"
+    },
+    {
+      "month": 29,
+      "retained_pct": 43.5,
+      "segment": "Starter"
+    },
+    {
+      "month": 30,
+      "retained_pct": 42.3,
+      "segment": "Starter"
+    },
+    {
+      "month": 31,
+      "retained_pct": 41.6,
+      "segment": "Starter"
+    },
+    {
+      "month": 32,
+      "retained_pct": 41.0,
+      "segment": "Starter"
+    },
+    {
+      "month": 33,
+      "retained_pct": 40.2,
+      "segment": "Starter"
+    },
+    {
+      "month": 34,
+      "retained_pct": 39.4,
+      "segment": "Starter"
+    },
+    {
+      "month": 35,
+      "retained_pct": 38.6,
+      "segment": "Starter"
+    },
+    {
+      "month": 36,
+      "retained_pct": 37.1,
+      "segment": "Starter"
+    },
+    {
+      "month": 0,
+      "retained_pct": 100.0,
+      "segment": "Professional"
+    },
+    {
+      "month": 1,
+      "retained_pct": 99.8,
+      "segment": "Professional"
+    },
+    {
+      "month": 2,
+      "retained_pct": 87.1,
+      "segment": "Professional"
+    },
+    {
+      "month": 3,
+      "retained_pct": 82.0,
+      "segment": "Professional"
+    },
+    {
+      "month": 4,
+      "retained_pct": 78.4,
+      "segment": "Professional"
+    },
+    {
+      "month": 5,
+      "retained_pct": 75.1,
+      "segment": "Professional"
+    },
+    {
+      "month": 6,
+      "retained_pct": 72.9,
+      "segment": "Professional"
+    },
+    {
+      "month": 7,
+      "retained_pct": 71.1,
+      "segment": "Professional"
+    },
+    {
+      "month": 8,
+      "retained_pct": 68.5,
+      "segment": "Professional"
+    },
+    {
+      "month": 9,
+      "retained_pct": 66.5,
+      "segment": "Professional"
+    },
+    {
+      "month": 10,
+      "retained_pct": 64.2,
+      "segment": "Professional"
+    },
+    {
+      "month": 11,
+      "retained_pct": 62.5,
+      "segment": "Professional"
+    },
+    {
+      "month": 12,
+      "retained_pct": 60.6,
+      "segment": "Professional"
+    },
+    {
+      "month": 13,
+      "retained_pct": 58.9,
+      "segment": "Professional"
+    },
+    {
+      "month": 14,
+      "retained_pct": 57.2,
+      "segment": "Professional"
+    },
+    {
+      "month": 15,
+      "retained_pct": 55.9,
+      "segment": "Professional"
+    },
+    {
+      "month": 16,
+      "retained_pct": 54.5,
+      "segment": "Professional"
+    },
+    {
+      "month": 17,
+      "retained_pct": 53.3,
+      "segment": "Professional"
+    },
+    {
+      "month": 18,
+      "retained_pct": 52.1,
+      "segment": "Professional"
+    },
+    {
+      "month": 19,
+      "retained_pct": 50.5,
+      "segment": "Professional"
+    },
+    {
+      "month": 20,
+      "retained_pct": 49.6,
+      "segment": "Professional"
+    },
+    {
+      "month": 21,
+      "retained_pct": 48.8,
+      "segment": "Professional"
+    },
+    {
+      "month": 22,
+      "retained_pct": 47.8,
+      "segment": "Professional"
+    },
+    {
+      "month": 23,
+      "retained_pct": 46.3,
+      "segment": "Professional"
+    },
+    {
+      "month": 24,
+      "retained_pct": 45.1,
+      "segment": "Professional"
+    },
+    {
+      "month": 25,
+      "retained_pct": 43.6,
+      "segment": "Professional"
+    },
+    {
+      "month": 26,
+      "retained_pct": 42.5,
+      "segment": "Professional"
+    },
+    {
+      "month": 27,
+      "retained_pct": 41.4,
+      "segment": "Professional"
+    },
+    {
+      "month": 28,
+      "retained_pct": 40.4,
+      "segment": "Professional"
+    },
+    {
+      "month": 29,
+      "retained_pct": 39.6,
+      "segment": "Professional"
+    },
+    {
+      "month": 30,
+      "retained_pct": 38.6,
+      "segment": "Professional"
+    },
+    {
+      "month": 31,
+      "retained_pct": 37.6,
+      "segment": "Professional"
+    },
+    {
+      "month": 32,
+      "retained_pct": 36.6,
+      "segment": "Professional"
+    },
+    {
+      "month": 33,
+      "retained_pct": 35.9,
+      "segment": "Professional"
+    },
+    {
+      "month": 34,
+      "retained_pct": 35.0,
+      "segment": "Professional"
+    },
+    {
+      "month": 35,
+      "retained_pct": 34.0,
+      "segment": "Professional"
+    },
+    {
+      "month": 36,
+      "retained_pct": 32.9,
+      "segment": "Professional"
+    },
+    {
+      "month": 0,
+      "retained_pct": 100.0,
+      "segment": "Business"
+    },
+    {
+      "month": 1,
+      "retained_pct": 100.0,
+      "segment": "Business"
+    },
+    {
+      "month": 2,
+      "retained_pct": 97.3,
+      "segment": "Business"
+    },
+    {
+      "month": 3,
+      "retained_pct": 95.4,
+      "segment": "Business"
+    },
+    {
+      "month": 4,
+      "retained_pct": 93.7,
+      "segment": "Business"
+    },
+    {
+      "month": 5,
+      "retained_pct": 92.1,
+      "segment": "Business"
+    },
+    {
+      "month": 6,
+      "retained_pct": 90.4,
+      "segment": "Business"
+    },
+    {
+      "month": 7,
+      "retained_pct": 89.2,
+      "segment": "Business"
+    },
+    {
+      "month": 8,
+      "retained_pct": 88.1,
+      "segment": "Business"
+    },
+    {
+      "month": 9,
+      "retained_pct": 86.9,
+      "segment": "Business"
+    },
+    {
+      "month": 10,
+      "retained_pct": 85.5,
+      "segment": "Business"
+    },
+    {
+      "month": 11,
+      "retained_pct": 84.2,
+      "segment": "Business"
+    },
+    {
+      "month": 12,
+      "retained_pct": 83.5,
+      "segment": "Business"
+    },
+    {
+      "month": 13,
+      "retained_pct": 82.2,
+      "segment": "Business"
+    },
+    {
+      "month": 14,
+      "retained_pct": 80.9,
+      "segment": "Business"
+    },
+    {
+      "month": 15,
+      "retained_pct": 79.9,
+      "segment": "Business"
+    },
+    {
+      "month": 16,
+      "retained_pct": 78.7,
+      "segment": "Business"
+    },
+    {
+      "month": 17,
+      "retained_pct": 77.7,
+      "segment": "Business"
+    },
+    {
+      "month": 18,
+      "retained_pct": 76.5,
+      "segment": "Business"
+    },
+    {
+      "month": 19,
+      "retained_pct": 75.3,
+      "segment": "Business"
+    },
+    {
+      "month": 20,
+      "retained_pct": 74.5,
+      "segment": "Business"
+    },
+    {
+      "month": 21,
+      "retained_pct": 73.5,
+      "segment": "Business"
+    },
+    {
+      "month": 22,
+      "retained_pct": 72.6,
+      "segment": "Business"
+    },
+    {
+      "month": 23,
+      "retained_pct": 71.4,
+      "segment": "Business"
+    },
+    {
+      "month": 24,
+      "retained_pct": 70.3,
+      "segment": "Business"
+    },
+    {
+      "month": 25,
+      "retained_pct": 69.2,
+      "segment": "Business"
+    },
+    {
+      "month": 26,
+      "retained_pct": 68.2,
+      "segment": "Business"
+    },
+    {
+      "month": 27,
+      "retained_pct": 67.0,
+      "segment": "Business"
+    },
+    {
+      "month": 28,
+      "retained_pct": 66.1,
+      "segment": "Business"
+    },
+    {
+      "month": 29,
+      "retained_pct": 65.1,
+      "segment": "Business"
+    },
+    {
+      "month": 30,
+      "retained_pct": 64.3,
+      "segment": "Business"
+    },
+    {
+      "month": 31,
+      "retained_pct": 63.0,
+      "segment": "Business"
+    },
+    {
+      "month": 32,
+      "retained_pct": 61.9,
+      "segment": "Business"
+    },
+    {
+      "month": 33,
+      "retained_pct": 60.6,
+      "segment": "Business"
+    },
+    {
+      "month": 34,
+      "retained_pct": 59.6,
+      "segment": "Business"
+    },
+    {
+      "month": 35,
+      "retained_pct": 58.6,
+      "segment": "Business"
+    },
+    {
+      "month": 36,
+      "retained_pct": 57.4,
+      "segment": "Business"
+    }
+  ],
+  "retention_by_billing": [
+    {
+      "month": 0,
+      "retained_pct": 100.0,
+      "segment": "Monthly"
+    },
+    {
+      "month": 1,
+      "retained_pct": 100.0,
+      "segment": "Monthly"
+    },
+    {
+      "month": 2,
+      "retained_pct": 84.4,
+      "segment": "Monthly"
+    },
+    {
+      "month": 3,
+      "retained_pct": 78.5,
+      "segment": "Monthly"
+    },
+    {
+      "month": 4,
+      "retained_pct": 73.5,
+      "segment": "Monthly"
+    },
+    {
+      "month": 5,
+      "retained_pct": 69.3,
+      "segment": "Monthly"
+    },
+    {
+      "month": 6,
+      "retained_pct": 66.0,
+      "segment": "Monthly"
+    },
+    {
+      "month": 7,
+      "retained_pct": 63.5,
+      "segment": "Monthly"
+    },
+    {
+      "month": 8,
+      "retained_pct": 60.6,
+      "segment": "Monthly"
+    },
+    {
+      "month": 9,
+      "retained_pct": 58.0,
+      "segment": "Monthly"
+    },
+    {
+      "month": 10,
+      "retained_pct": 55.3,
+      "segment": "Monthly"
+    },
+    {
+      "month": 11,
+      "retained_pct": 52.8,
+      "segment": "Monthly"
+    },
+    {
+      "month": 12,
+      "retained_pct": 50.8,
+      "segment": "Monthly"
+    },
+    {
+      "month": 13,
+      "retained_pct": 48.5,
+      "segment": "Monthly"
+    },
+    {
+      "month": 14,
+      "retained_pct": 46.4,
+      "segment": "Monthly"
+    },
+    {
+      "month": 15,
+      "retained_pct": 45.0,
+      "segment": "Monthly"
+    },
+    {
+      "month": 16,
+      "retained_pct": 42.9,
+      "segment": "Monthly"
+    },
+    {
+      "month": 17,
+      "retained_pct": 41.2,
+      "segment": "Monthly"
+    },
+    {
+      "month": 18,
+      "retained_pct": 39.7,
+      "segment": "Monthly"
+    },
+    {
+      "month": 19,
+      "retained_pct": 37.8,
+      "segment": "Monthly"
+    },
+    {
+      "month": 20,
+      "retained_pct": 36.4,
+      "segment": "Monthly"
+    },
+    {
+      "month": 21,
+      "retained_pct": 35.0,
+      "segment": "Monthly"
+    },
+    {
+      "month": 22,
+      "retained_pct": 33.9,
+      "segment": "Monthly"
+    },
+    {
+      "month": 23,
+      "retained_pct": 32.2,
+      "segment": "Monthly"
+    },
+    {
+      "month": 24,
+      "retained_pct": 31.0,
+      "segment": "Monthly"
+    },
+    {
+      "month": 25,
+      "retained_pct": 29.5,
+      "segment": "Monthly"
+    },
+    {
+      "month": 26,
+      "retained_pct": 28.3,
+      "segment": "Monthly"
+    },
+    {
+      "month": 27,
+      "retained_pct": 27.0,
+      "segment": "Monthly"
+    },
+    {
+      "month": 28,
+      "retained_pct": 25.9,
+      "segment": "Monthly"
+    },
+    {
+      "month": 29,
+      "retained_pct": 25.1,
+      "segment": "Monthly"
+    },
+    {
+      "month": 30,
+      "retained_pct": 23.8,
+      "segment": "Monthly"
+    },
+    {
+      "month": 31,
+      "retained_pct": 22.7,
+      "segment": "Monthly"
+    },
+    {
+      "month": 32,
+      "retained_pct": 21.7,
+      "segment": "Monthly"
+    },
+    {
+      "month": 33,
+      "retained_pct": 20.5,
+      "segment": "Monthly"
+    },
+    {
+      "month": 34,
+      "retained_pct": 19.7,
+      "segment": "Monthly"
+    },
+    {
+      "month": 35,
+      "retained_pct": 18.7,
+      "segment": "Monthly"
+    },
+    {
+      "month": 36,
+      "retained_pct": 17.5,
+      "segment": "Monthly"
+    },
+    {
+      "month": 0,
+      "retained_pct": 100.0,
+      "segment": "Annual"
+    },
+    {
+      "month": 1,
+      "retained_pct": 99.9,
+      "segment": "Annual"
+    },
+    {
+      "month": 2,
+      "retained_pct": 99.5,
+      "segment": "Annual"
+    },
+    {
+      "month": 3,
+      "retained_pct": 99.0,
+      "segment": "Annual"
+    },
+    {
+      "month": 4,
+      "retained_pct": 98.6,
+      "segment": "Annual"
+    },
+    {
+      "month": 5,
+      "retained_pct": 98.1,
+      "segment": "Annual"
+    },
+    {
+      "month": 6,
+      "retained_pct": 97.8,
+      "segment": "Annual"
+    },
+    {
+      "month": 7,
+      "retained_pct": 97.4,
+      "segment": "Annual"
+    },
+    {
+      "month": 8,
+      "retained_pct": 96.4,
+      "segment": "Annual"
+    },
+    {
+      "month": 9,
+      "retained_pct": 95.8,
+      "segment": "Annual"
+    },
+    {
+      "month": 10,
+      "retained_pct": 95.0,
+      "segment": "Annual"
+    },
+    {
+      "month": 11,
+      "retained_pct": 94.0,
+      "segment": "Annual"
+    },
+    {
+      "month": 12,
+      "retained_pct": 93.1,
+      "segment": "Annual"
+    },
+    {
+      "month": 13,
+      "retained_pct": 91.6,
+      "segment": "Annual"
+    },
+    {
+      "month": 14,
+      "retained_pct": 90.6,
+      "segment": "Annual"
+    },
+    {
+      "month": 15,
+      "retained_pct": 89.7,
+      "segment": "Annual"
+    },
+    {
+      "month": 16,
+      "retained_pct": 88.7,
+      "segment": "Annual"
+    },
+    {
+      "month": 17,
+      "retained_pct": 88.2,
+      "segment": "Annual"
+    },
+    {
+      "month": 18,
+      "retained_pct": 86.4,
+      "segment": "Annual"
+    },
+    {
+      "month": 19,
+      "retained_pct": 85.5,
+      "segment": "Annual"
+    },
+    {
+      "month": 20,
+      "retained_pct": 84.6,
+      "segment": "Annual"
+    },
+    {
+      "month": 21,
+      "retained_pct": 83.7,
+      "segment": "Annual"
+    },
+    {
+      "month": 22,
+      "retained_pct": 82.8,
+      "segment": "Annual"
+    },
+    {
+      "month": 23,
+      "retained_pct": 81.3,
+      "segment": "Annual"
+    },
+    {
+      "month": 24,
+      "retained_pct": 79.6,
+      "segment": "Annual"
+    },
+    {
+      "month": 25,
+      "retained_pct": 78.2,
+      "segment": "Annual"
+    },
+    {
+      "month": 26,
+      "retained_pct": 76.8,
+      "segment": "Annual"
+    },
+    {
+      "month": 27,
+      "retained_pct": 75.0,
+      "segment": "Annual"
+    },
+    {
+      "month": 28,
+      "retained_pct": 73.7,
+      "segment": "Annual"
+    },
+    {
+      "month": 29,
+      "retained_pct": 72.2,
+      "segment": "Annual"
+    },
+    {
+      "month": 30,
+      "retained_pct": 70.9,
+      "segment": "Annual"
+    },
+    {
+      "month": 31,
+      "retained_pct": 69.6,
+      "segment": "Annual"
+    },
+    {
+      "month": 32,
+      "retained_pct": 68.5,
+      "segment": "Annual"
+    },
+    {
+      "month": 33,
+      "retained_pct": 67.2,
+      "segment": "Annual"
+    },
+    {
+      "month": 34,
+      "retained_pct": 65.6,
+      "segment": "Annual"
+    },
+    {
+      "month": 35,
+      "retained_pct": 64.4,
+      "segment": "Annual"
+    },
+    {
+      "month": 36,
+      "retained_pct": 62.5,
+      "segment": "Annual"
+    },
+    {
+      "month": 0,
+      "retained_pct": 100.0,
+      "segment": "2-Year"
+    },
+    {
+      "month": 1,
+      "retained_pct": 99.4,
+      "segment": "2-Year"
+    },
+    {
+      "month": 2,
+      "retained_pct": 99.3,
+      "segment": "2-Year"
+    },
+    {
+      "month": 3,
+      "retained_pct": 99.2,
+      "segment": "2-Year"
+    },
+    {
+      "month": 4,
+      "retained_pct": 99.1,
+      "segment": "2-Year"
+    },
+    {
+      "month": 5,
+      "retained_pct": 98.8,
+      "segment": "2-Year"
+    },
+    {
+      "month": 6,
+      "retained_pct": 98.8,
+      "segment": "2-Year"
+    },
+    {
+      "month": 7,
+      "retained_pct": 98.3,
+      "segment": "2-Year"
+    },
+    {
+      "month": 8,
+      "retained_pct": 98.1,
+      "segment": "2-Year"
+    },
+    {
+      "month": 9,
+      "retained_pct": 97.3,
+      "segment": "2-Year"
+    },
+    {
+      "month": 10,
+      "retained_pct": 97.1,
+      "segment": "2-Year"
+    },
+    {
+      "month": 11,
+      "retained_pct": 96.8,
+      "segment": "2-Year"
+    },
+    {
+      "month": 12,
+      "retained_pct": 96.5,
+      "segment": "2-Year"
+    },
+    {
+      "month": 13,
+      "retained_pct": 96.0,
+      "segment": "2-Year"
+    },
+    {
+      "month": 14,
+      "retained_pct": 95.3,
+      "segment": "2-Year"
+    },
+    {
+      "month": 15,
+      "retained_pct": 94.9,
+      "segment": "2-Year"
+    },
+    {
+      "month": 16,
+      "retained_pct": 94.6,
+      "segment": "2-Year"
+    },
+    {
+      "month": 17,
+      "retained_pct": 94.2,
+      "segment": "2-Year"
+    },
+    {
+      "month": 18,
+      "retained_pct": 94.0,
+      "segment": "2-Year"
+    },
+    {
+      "month": 19,
+      "retained_pct": 93.6,
+      "segment": "2-Year"
+    },
+    {
+      "month": 20,
+      "retained_pct": 93.2,
+      "segment": "2-Year"
+    },
+    {
+      "month": 21,
+      "retained_pct": 92.9,
+      "segment": "2-Year"
+    },
+    {
+      "month": 22,
+      "retained_pct": 92.6,
+      "segment": "2-Year"
+    },
+    {
+      "month": 23,
+      "retained_pct": 92.3,
+      "segment": "2-Year"
+    },
+    {
+      "month": 24,
+      "retained_pct": 91.6,
+      "segment": "2-Year"
+    },
+    {
+      "month": 25,
+      "retained_pct": 90.7,
+      "segment": "2-Year"
+    },
+    {
+      "month": 26,
+      "retained_pct": 90.1,
+      "segment": "2-Year"
+    },
+    {
+      "month": 27,
+      "retained_pct": 89.9,
+      "segment": "2-Year"
+    },
+    {
+      "month": 28,
+      "retained_pct": 89.3,
+      "segment": "2-Year"
+    },
+    {
+      "month": 29,
+      "retained_pct": 89.2,
+      "segment": "2-Year"
+    },
+    {
+      "month": 30,
+      "retained_pct": 88.9,
+      "segment": "2-Year"
+    },
+    {
+      "month": 31,
+      "retained_pct": 88.3,
+      "segment": "2-Year"
+    },
+    {
+      "month": 32,
+      "retained_pct": 87.8,
+      "segment": "2-Year"
+    },
+    {
+      "month": 33,
+      "retained_pct": 87.6,
+      "segment": "2-Year"
+    },
+    {
+      "month": 34,
+      "retained_pct": 87.0,
+      "segment": "2-Year"
+    },
+    {
+      "month": 35,
+      "retained_pct": 86.5,
+      "segment": "2-Year"
+    },
+    {
+      "month": 36,
+      "retained_pct": 85.5,
+      "segment": "2-Year"
+    }
+  ],
+  "retention_by_channel": [
+    {
+      "month": 0,
+      "retained_pct": 100.0,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 1,
+      "retained_pct": 100.0,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 2,
+      "retained_pct": 93.3,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 3,
+      "retained_pct": 90.2,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 4,
+      "retained_pct": 87.0,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 5,
+      "retained_pct": 84.8,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 6,
+      "retained_pct": 83.5,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 7,
+      "retained_pct": 81.9,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 8,
+      "retained_pct": 80.0,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 9,
+      "retained_pct": 78.3,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 10,
+      "retained_pct": 75.9,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 11,
+      "retained_pct": 74.9,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 12,
+      "retained_pct": 73.8,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 13,
+      "retained_pct": 71.3,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 14,
+      "retained_pct": 69.9,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 15,
+      "retained_pct": 68.5,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 16,
+      "retained_pct": 67.3,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 17,
+      "retained_pct": 66.3,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 18,
+      "retained_pct": 65.3,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 19,
+      "retained_pct": 64.7,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 20,
+      "retained_pct": 63.8,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 21,
+      "retained_pct": 63.5,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 22,
+      "retained_pct": 62.2,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 23,
+      "retained_pct": 60.9,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 24,
+      "retained_pct": 59.4,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 25,
+      "retained_pct": 57.8,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 26,
+      "retained_pct": 57.4,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 27,
+      "retained_pct": 56.0,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 28,
+      "retained_pct": 55.3,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 29,
+      "retained_pct": 55.0,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 30,
+      "retained_pct": 53.6,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 31,
+      "retained_pct": 52.3,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 32,
+      "retained_pct": 51.9,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 33,
+      "retained_pct": 51.3,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 34,
+      "retained_pct": 49.9,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 35,
+      "retained_pct": 49.0,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 36,
+      "retained_pct": 47.7,
+      "segment": "Partnerships"
+    },
+    {
+      "month": 0,
+      "retained_pct": 100.0,
+      "segment": "Referral"
+    },
+    {
+      "month": 1,
+      "retained_pct": 99.9,
+      "segment": "Referral"
+    },
+    {
+      "month": 2,
+      "retained_pct": 92.2,
+      "segment": "Referral"
+    },
+    {
+      "month": 3,
+      "retained_pct": 90.0,
+      "segment": "Referral"
+    },
+    {
+      "month": 4,
+      "retained_pct": 87.3,
+      "segment": "Referral"
+    },
+    {
+      "month": 5,
+      "retained_pct": 84.7,
+      "segment": "Referral"
+    },
+    {
+      "month": 6,
+      "retained_pct": 83.8,
+      "segment": "Referral"
+    },
+    {
+      "month": 7,
+      "retained_pct": 82.3,
+      "segment": "Referral"
+    },
+    {
+      "month": 8,
+      "retained_pct": 81.3,
+      "segment": "Referral"
+    },
+    {
+      "month": 9,
+      "retained_pct": 80.1,
+      "segment": "Referral"
+    },
+    {
+      "month": 10,
+      "retained_pct": 78.2,
+      "segment": "Referral"
+    },
+    {
+      "month": 11,
+      "retained_pct": 75.3,
+      "segment": "Referral"
+    },
+    {
+      "month": 12,
+      "retained_pct": 74.1,
+      "segment": "Referral"
+    },
+    {
+      "month": 13,
+      "retained_pct": 72.8,
+      "segment": "Referral"
+    },
+    {
+      "month": 14,
+      "retained_pct": 70.9,
+      "segment": "Referral"
+    },
+    {
+      "month": 15,
+      "retained_pct": 69.5,
+      "segment": "Referral"
+    },
+    {
+      "month": 16,
+      "retained_pct": 67.8,
+      "segment": "Referral"
+    },
+    {
+      "month": 17,
+      "retained_pct": 66.4,
+      "segment": "Referral"
+    },
+    {
+      "month": 18,
+      "retained_pct": 65.2,
+      "segment": "Referral"
+    },
+    {
+      "month": 19,
+      "retained_pct": 63.6,
+      "segment": "Referral"
+    },
+    {
+      "month": 20,
+      "retained_pct": 62.1,
+      "segment": "Referral"
+    },
+    {
+      "month": 21,
+      "retained_pct": 61.1,
+      "segment": "Referral"
+    },
+    {
+      "month": 22,
+      "retained_pct": 60.4,
+      "segment": "Referral"
+    },
+    {
+      "month": 23,
+      "retained_pct": 59.3,
+      "segment": "Referral"
+    },
+    {
+      "month": 24,
+      "retained_pct": 58.2,
+      "segment": "Referral"
+    },
+    {
+      "month": 25,
+      "retained_pct": 56.5,
+      "segment": "Referral"
+    },
+    {
+      "month": 26,
+      "retained_pct": 55.2,
+      "segment": "Referral"
+    },
+    {
+      "month": 27,
+      "retained_pct": 54.1,
+      "segment": "Referral"
+    },
+    {
+      "month": 28,
+      "retained_pct": 53.3,
+      "segment": "Referral"
+    },
+    {
+      "month": 29,
+      "retained_pct": 52.8,
+      "segment": "Referral"
+    },
+    {
+      "month": 30,
+      "retained_pct": 52.1,
+      "segment": "Referral"
+    },
+    {
+      "month": 31,
+      "retained_pct": 51.4,
+      "segment": "Referral"
+    },
+    {
+      "month": 32,
+      "retained_pct": 50.5,
+      "segment": "Referral"
+    },
+    {
+      "month": 33,
+      "retained_pct": 49.5,
+      "segment": "Referral"
+    },
+    {
+      "month": 34,
+      "retained_pct": 48.7,
+      "segment": "Referral"
+    },
+    {
+      "month": 35,
+      "retained_pct": 47.6,
+      "segment": "Referral"
+    },
+    {
+      "month": 36,
+      "retained_pct": 45.9,
+      "segment": "Referral"
+    },
+    {
+      "month": 0,
+      "retained_pct": 100.0,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 1,
+      "retained_pct": 99.8,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 2,
+      "retained_pct": 92.4,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 3,
+      "retained_pct": 88.9,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 4,
+      "retained_pct": 86.1,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 5,
+      "retained_pct": 82.7,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 6,
+      "retained_pct": 80.4,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 7,
+      "retained_pct": 78.7,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 8,
+      "retained_pct": 76.3,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 9,
+      "retained_pct": 74.1,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 10,
+      "retained_pct": 72.7,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 11,
+      "retained_pct": 71.3,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 12,
+      "retained_pct": 69.9,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 13,
+      "retained_pct": 68.3,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 14,
+      "retained_pct": 66.8,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 15,
+      "retained_pct": 65.8,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 16,
+      "retained_pct": 64.4,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 17,
+      "retained_pct": 63.3,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 18,
+      "retained_pct": 61.8,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 19,
+      "retained_pct": 60.5,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 20,
+      "retained_pct": 59.3,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 21,
+      "retained_pct": 58.2,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 22,
+      "retained_pct": 57.2,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 23,
+      "retained_pct": 56.0,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 24,
+      "retained_pct": 54.7,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 25,
+      "retained_pct": 53.6,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 26,
+      "retained_pct": 52.6,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 27,
+      "retained_pct": 51.6,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 28,
+      "retained_pct": 50.3,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 29,
+      "retained_pct": 49.0,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 30,
+      "retained_pct": 48.0,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 31,
+      "retained_pct": 47.4,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 32,
+      "retained_pct": 46.4,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 33,
+      "retained_pct": 45.3,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 34,
+      "retained_pct": 44.4,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 35,
+      "retained_pct": 43.2,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 36,
+      "retained_pct": 42.5,
+      "segment": "Paid Search"
+    },
+    {
+      "month": 0,
+      "retained_pct": 100.0,
+      "segment": "Content"
+    },
+    {
+      "month": 1,
+      "retained_pct": 99.8,
+      "segment": "Content"
+    },
+    {
+      "month": 2,
+      "retained_pct": 90.4,
+      "segment": "Content"
+    },
+    {
+      "month": 3,
+      "retained_pct": 86.3,
+      "segment": "Content"
+    },
+    {
+      "month": 4,
+      "retained_pct": 83.4,
+      "segment": "Content"
+    },
+    {
+      "month": 5,
+      "retained_pct": 81.4,
+      "segment": "Content"
+    },
+    {
+      "month": 6,
+      "retained_pct": 78.9,
+      "segment": "Content"
+    },
+    {
+      "month": 7,
+      "retained_pct": 77.3,
+      "segment": "Content"
+    },
+    {
+      "month": 8,
+      "retained_pct": 74.9,
+      "segment": "Content"
+    },
+    {
+      "month": 9,
+      "retained_pct": 73.1,
+      "segment": "Content"
+    },
+    {
+      "month": 10,
+      "retained_pct": 72.1,
+      "segment": "Content"
+    },
+    {
+      "month": 11,
+      "retained_pct": 70.8,
+      "segment": "Content"
+    },
+    {
+      "month": 12,
+      "retained_pct": 69.0,
+      "segment": "Content"
+    },
+    {
+      "month": 13,
+      "retained_pct": 67.9,
+      "segment": "Content"
+    },
+    {
+      "month": 14,
+      "retained_pct": 66.3,
+      "segment": "Content"
+    },
+    {
+      "month": 15,
+      "retained_pct": 65.4,
+      "segment": "Content"
+    },
+    {
+      "month": 16,
+      "retained_pct": 63.7,
+      "segment": "Content"
+    },
+    {
+      "month": 17,
+      "retained_pct": 62.7,
+      "segment": "Content"
+    },
+    {
+      "month": 18,
+      "retained_pct": 61.4,
+      "segment": "Content"
+    },
+    {
+      "month": 19,
+      "retained_pct": 60.2,
+      "segment": "Content"
+    },
+    {
+      "month": 20,
+      "retained_pct": 59.9,
+      "segment": "Content"
+    },
+    {
+      "month": 21,
+      "retained_pct": 58.4,
+      "segment": "Content"
+    },
+    {
+      "month": 22,
+      "retained_pct": 57.7,
+      "segment": "Content"
+    },
+    {
+      "month": 23,
+      "retained_pct": 56.6,
+      "segment": "Content"
+    },
+    {
+      "month": 24,
+      "retained_pct": 55.5,
+      "segment": "Content"
+    },
+    {
+      "month": 25,
+      "retained_pct": 54.9,
+      "segment": "Content"
+    },
+    {
+      "month": 26,
+      "retained_pct": 53.8,
+      "segment": "Content"
+    },
+    {
+      "month": 27,
+      "retained_pct": 52.7,
+      "segment": "Content"
+    },
+    {
+      "month": 28,
+      "retained_pct": 52.1,
+      "segment": "Content"
+    },
+    {
+      "month": 29,
+      "retained_pct": 51.7,
+      "segment": "Content"
+    },
+    {
+      "month": 30,
+      "retained_pct": 50.9,
+      "segment": "Content"
+    },
+    {
+      "month": 31,
+      "retained_pct": 49.9,
+      "segment": "Content"
+    },
+    {
+      "month": 32,
+      "retained_pct": 49.2,
+      "segment": "Content"
+    },
+    {
+      "month": 33,
+      "retained_pct": 48.3,
+      "segment": "Content"
+    },
+    {
+      "month": 34,
+      "retained_pct": 47.4,
+      "segment": "Content"
+    },
+    {
+      "month": 35,
+      "retained_pct": 46.7,
+      "segment": "Content"
+    },
+    {
+      "month": 36,
+      "retained_pct": 45.5,
+      "segment": "Content"
+    },
+    {
+      "month": 0,
+      "retained_pct": 100.0,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 1,
+      "retained_pct": 99.7,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 2,
+      "retained_pct": 90.0,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 3,
+      "retained_pct": 86.9,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 4,
+      "retained_pct": 84.1,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 5,
+      "retained_pct": 81.7,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 6,
+      "retained_pct": 80.0,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 7,
+      "retained_pct": 78.4,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 8,
+      "retained_pct": 76.8,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 9,
+      "retained_pct": 75.2,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 10,
+      "retained_pct": 73.8,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 11,
+      "retained_pct": 72.1,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 12,
+      "retained_pct": 70.5,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 13,
+      "retained_pct": 68.7,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 14,
+      "retained_pct": 67.3,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 15,
+      "retained_pct": 66.4,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 16,
+      "retained_pct": 65.1,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 17,
+      "retained_pct": 63.9,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 18,
+      "retained_pct": 62.5,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 19,
+      "retained_pct": 61.1,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 20,
+      "retained_pct": 60.0,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 21,
+      "retained_pct": 59.3,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 22,
+      "retained_pct": 58.6,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 23,
+      "retained_pct": 57.0,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 24,
+      "retained_pct": 55.7,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 25,
+      "retained_pct": 54.1,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 26,
+      "retained_pct": 52.6,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 27,
+      "retained_pct": 51.4,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 28,
+      "retained_pct": 50.2,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 29,
+      "retained_pct": 49.3,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 30,
+      "retained_pct": 48.3,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 31,
+      "retained_pct": 46.9,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 32,
+      "retained_pct": 45.8,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 33,
+      "retained_pct": 44.5,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 34,
+      "retained_pct": 43.6,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 35,
+      "retained_pct": 42.8,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 36,
+      "retained_pct": 41.2,
+      "segment": "Organic Search"
+    },
+    {
+      "month": 0,
+      "retained_pct": 100.0,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 1,
+      "retained_pct": 99.9,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 2,
+      "retained_pct": 89.6,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 3,
+      "retained_pct": 85.0,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 4,
+      "retained_pct": 82.0,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 5,
+      "retained_pct": 80.0,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 6,
+      "retained_pct": 77.4,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 7,
+      "retained_pct": 76.3,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 8,
+      "retained_pct": 74.4,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 9,
+      "retained_pct": 72.3,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 10,
+      "retained_pct": 69.6,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 11,
+      "retained_pct": 68.1,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 12,
+      "retained_pct": 67.0,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 13,
+      "retained_pct": 65.6,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 14,
+      "retained_pct": 63.9,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 15,
+      "retained_pct": 62.8,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 16,
+      "retained_pct": 61.3,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 17,
+      "retained_pct": 60.5,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 18,
+      "retained_pct": 59.6,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 19,
+      "retained_pct": 57.6,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 20,
+      "retained_pct": 56.3,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 21,
+      "retained_pct": 54.7,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 22,
+      "retained_pct": 53.5,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 23,
+      "retained_pct": 52.4,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 24,
+      "retained_pct": 51.5,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 25,
+      "retained_pct": 50.3,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 26,
+      "retained_pct": 49.3,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 27,
+      "retained_pct": 48.4,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 28,
+      "retained_pct": 47.2,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 29,
+      "retained_pct": 46.0,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 30,
+      "retained_pct": 44.5,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 31,
+      "retained_pct": 43.6,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 32,
+      "retained_pct": 42.6,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 33,
+      "retained_pct": 41.9,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 34,
+      "retained_pct": 41.5,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 35,
+      "retained_pct": 40.5,
+      "segment": "Paid Social"
+    },
+    {
+      "month": 36,
+      "retained_pct": 39.6,
+      "segment": "Paid Social"
+    }
+  ],
+  "cohort_heatmap": [
+    {
+      "cohort": "2023Q2",
+      "size": 206,
+      "m0": 100.0,
+      "m1": 100.0,
+      "m2": 100.0,
+      "m3": 100.0,
+      "m4": 100.0,
+      "m5": 100.0,
+      "m6": 100.0,
+      "m7": 100.0,
+      "m8": 100.0,
+      "m9": 100.0,
+      "m10": 100.0,
+      "m11": 100.0,
+      "m12": 100.0,
+      "m13": 100.0,
+      "m14": 100.0,
+      "m15": 100.0,
+      "m16": 100.0,
+      "m17": 100.0,
+      "m18": 100.0,
+      "m19": 99.5,
+      "m20": 64.1,
+      "m21": 29.6,
+      "m22": 0.0,
+      "m23": 0.0,
+      "m24": 0.0
+    },
+    {
+      "cohort": "2023Q3",
+      "size": 267,
+      "m0": 100.0,
+      "m1": 100.0,
+      "m2": 100.0,
+      "m3": 100.0,
+      "m4": 100.0,
+      "m5": 100.0,
+      "m6": 100.0,
+      "m7": 100.0,
+      "m8": 100.0,
+      "m9": 100.0,
+      "m10": 100.0,
+      "m11": 100.0,
+      "m12": 100.0,
+      "m13": 100.0,
+      "m14": 100.0,
+      "m15": 100.0,
+      "m16": 98.5,
+      "m17": 68.5,
+      "m18": 36.0,
+      "m19": 0.0,
+      "m20": 0.0,
+      "m21": 0.0,
+      "m22": 0.0,
+      "m23": 0.0,
+      "m24": 0.0
+    },
+    {
+      "cohort": "2023Q4",
+      "size": 282,
+      "m0": 100.0,
+      "m1": 100.0,
+      "m2": 100.0,
+      "m3": 100.0,
+      "m4": 100.0,
+      "m5": 100.0,
+      "m6": 100.0,
+      "m7": 100.0,
+      "m8": 100.0,
+      "m9": 100.0,
+      "m10": 100.0,
+      "m11": 100.0,
+      "m12": 100.0,
+      "m13": 99.3,
+      "m14": 60.6,
+      "m15": 33.7,
+      "m16": 0.0,
+      "m17": 0.0,
+      "m18": 0.0,
+      "m19": 0.0,
+      "m20": 0.0,
+      "m21": 0.0,
+      "m22": 0.0,
+      "m23": 0.0,
+      "m24": 0.0
+    },
+    {
+      "cohort": "2024Q1",
+      "size": 335,
+      "m0": 100.0,
+      "m1": 100.0,
+      "m2": 100.0,
+      "m3": 100.0,
+      "m4": 100.0,
+      "m5": 100.0,
+      "m6": 100.0,
+      "m7": 100.0,
+      "m8": 100.0,
+      "m9": 100.0,
+      "m10": 98.5,
+      "m11": 63.9,
+      "m12": 34.3,
+      "m13": 0.0,
+      "m14": 0.0,
+      "m15": 0.0,
+      "m16": 0.0,
+      "m17": 0.0,
+      "m18": 0.0,
+      "m19": 0.0,
+      "m20": 0.0,
+      "m21": 0.0,
+      "m22": 0.0,
+      "m23": 0.0,
+      "m24": 0.0
+    },
+    {
+      "cohort": "2024Q2",
+      "size": 369,
+      "m0": 100.0,
+      "m1": 100.0,
+      "m2": 100.0,
+      "m3": 100.0,
+      "m4": 100.0,
+      "m5": 100.0,
+      "m6": 100.0,
+      "m7": 99.7,
+      "m8": 64.2,
+      "m9": 30.9,
+      "m10": 0.0,
+      "m11": 0.0,
+      "m12": 0.0,
+      "m13": 0.0,
+      "m14": 0.0,
+      "m15": 0.0,
+      "m16": 0.0,
+      "m17": 0.0,
+      "m18": 0.0,
+      "m19": 0.0,
+      "m20": 0.0,
+      "m21": 0.0,
+      "m22": 0.0,
+      "m23": 0.0,
+      "m24": 0.0
+    },
+    {
+      "cohort": "2024Q3",
+      "size": 423,
+      "m0": 100.0,
+      "m1": 100.0,
+      "m2": 100.0,
+      "m3": 100.0,
+      "m4": 98.8,
+      "m5": 57.2,
+      "m6": 25.8,
+      "m7": 0.0,
+      "m8": 0.0,
+      "m9": 0.0,
+      "m10": 0.0,
+      "m11": 0.0,
+      "m12": 0.0,
+      "m13": 0.0,
+      "m14": 0.0,
+      "m15": 0.0,
+      "m16": 0.0,
+      "m17": 0.0,
+      "m18": 0.0,
+      "m19": 0.0,
+      "m20": 0.0,
+      "m21": 0.0,
+      "m22": 0.0,
+      "m23": 0.0,
+      "m24": 0.0
+    },
+    {
+      "cohort": "2024Q4",
+      "size": 1046,
+      "m0": 100.0,
+      "m1": 100.0,
+      "m2": 41.4,
+      "m3": 18.6,
+      "m4": 0.0,
+      "m5": 0.0,
+      "m6": 0.0,
+      "m7": 0.0,
+      "m8": 0.0,
+      "m9": 0.0,
+      "m10": 0.0,
+      "m11": 0.0,
+      "m12": 0.0,
+      "m13": 0.0,
+      "m14": 0.0,
+      "m15": 0.0,
+      "m16": 0.0,
+      "m17": 0.0,
+      "m18": 0.0,
+      "m19": 0.0,
+      "m20": 0.0,
+      "m21": 0.0,
+      "m22": 0.0,
+      "m23": 0.0,
+      "m24": 0.0
+    },
+    {
+      "cohort": "2025Q1",
+      "size": 11,
+      "m0": 100.0,
+      "m1": 0.0,
+      "m2": 0.0,
+      "m3": 0.0,
+      "m4": 0.0,
+      "m5": 0.0,
+      "m6": 0.0,
+      "m7": 0.0,
+      "m8": 0.0,
+      "m9": 0.0,
+      "m10": 0.0,
+      "m11": 0.0,
+      "m12": 0.0,
+      "m13": 0.0,
+      "m14": 0.0,
+      "m15": 0.0,
+      "m16": 0.0,
+      "m17": 0.0,
+      "m18": 0.0,
+      "m19": 0.0,
+      "m20": 0.0,
+      "m21": 0.0,
+      "m22": 0.0,
+      "m23": 0.0,
+      "m24": 0.0
+    }
+  ],
+  "churn_rates": {
+    "overall": 0.265,
+    "by_plan": {
+      "Business": 0.34,
+      "Professional": 0.295,
+      "Starter": 0.116
+    },
+    "by_billing": {
+      "2-Year": 0.028,
+      "Annual": 0.113,
+      "Monthly": 0.427
+    },
+    "by_channel": {
+      "Content": 0.26,
+      "Organic Search": 0.239,
+      "Paid Search": 0.282,
+      "Paid Social": 0.239,
+      "Partnerships": 0.338,
+      "Referral": 0.263
+    },
+    "by_addons": {
+      "0": 0.214,
+      "1-2": 0.406,
+      "3-4": 0.252,
+      "5-6": 0.101
+    },
+    "by_tenure": {
+      "early_0_3mo": 0.562,
+      "mid_4_12mo": 0.391,
+      "late_12plus": 0.171
+    }
+  },
+  "cohort_summary": [
+    {
+      "signup_cohort": "2018-12",
+      "cohort_size": 15,
+      "avg_mrr": 71.32666666666667,
+      "churn_rate": 0.0
+    },
+    {
+      "signup_cohort": "2019-01",
+      "cohort_size": 351,
+      "avg_mrr": 80.69957264957264,
+      "churn_rate": 0.017094017094017096
+    },
+    {
+      "signup_cohort": "2019-02",
+      "cohort_size": 173,
+      "avg_mrr": 74.1971098265896,
+      "churn_rate": 0.046242774566473986
+    },
+    {
+      "signup_cohort": "2019-03",
+      "cohort_size": 117,
+      "avg_mrr": 76.76794871794873,
+      "churn_rate": 0.07692307692307693
+    },
+    {
+      "signup_cohort": "2019-04",
+      "cohort_size": 93,
+      "avg_mrr": 70.65376344086022,
+      "churn_rate": 0.08602150537634409
+    },
+    {
+      "signup_cohort": "2019-05",
+      "cohort_size": 99,
+      "avg_mrr": 73.17222222222222,
+      "churn_rate": 0.09090909090909091
+    },
+    {
+      "signup_cohort": "2019-06",
+      "cohort_size": 99,
+      "avg_mrr": 72.94949494949495,
+      "churn_rate": 0.10101010101010101
+    },
+    {
+      "signup_cohort": "2019-07",
+      "cohort_size": 88,
+      "avg_mrr": 76.09375,
+      "churn_rate": 0.14772727272727273
+    },
+    {
+      "signup_cohort": "2019-08",
+      "cohort_size": 76,
+      "avg_mrr": 80.61644736842106,
+      "churn_rate": 0.11842105263157894
+    },
+    {
+      "signup_cohort": "2019-09",
+      "cohort_size": 79,
+      "avg_mrr": 75.02151898734176,
+      "churn_rate": 0.05063291139240506
+    },
+    {
+      "signup_cohort": "2019-10",
+      "cohort_size": 72,
+      "avg_mrr": 73.22430555555555,
+      "churn_rate": 0.05555555555555555
+    },
+    {
+      "signup_cohort": "2019-11",
+      "cohort_size": 71,
+      "avg_mrr": 70.00915492957746,
+      "churn_rate": 0.07042253521126761
+    },
+    {
+      "signup_cohort": "2019-12",
+      "cohort_size": 79,
+      "avg_mrr": 75.82721518987343,
+      "churn_rate": 0.10126582278481013
+    },
+    {
+      "signup_cohort": "2020-01",
+      "cohort_size": 72,
+      "avg_mrr": 73.475,
+      "churn_rate": 0.08333333333333333
+    },
+    {
+      "signup_cohort": "2020-02",
+      "cohort_size": 62,
+      "avg_mrr": 70.95887096774193,
+      "churn_rate": 0.12903225806451613
+    },
+    {
+      "signup_cohort": "2020-03",
+      "cohort_size": 65,
+      "avg_mrr": 70.92999999999999,
+      "churn_rate": 0.16923076923076924
+    },
+    {
+      "signup_cohort": "2020-04",
+      "cohort_size": 67,
+      "avg_mrr": 65.72985074626865,
+      "churn_rate": 0.11940298507462686
+    },
+    {
+      "signup_cohort": "2020-05",
+      "cohort_size": 81,
+      "avg_mrr": 75.80432098765432,
+      "churn_rate": 0.12345679012345678
+    },
+    {
+      "signup_cohort": "2020-06",
+      "cohort_size": 60,
+      "avg_mrr": 67.83083333333333,
+      "churn_rate": 0.15
+    },
+    {
+      "signup_cohort": "2020-07",
+      "cohort_size": 71,
+      "avg_mrr": 74.22887323943662,
+      "churn_rate": 0.19718309859154928
+    },
+    {
+      "signup_cohort": "2020-08",
+      "cohort_size": 67,
+      "avg_mrr": 67.81940298507462,
+      "churn_rate": 0.19402985074626866
+    },
+    {
+      "signup_cohort": "2020-09",
+      "cohort_size": 81,
+      "avg_mrr": 67.09382716049383,
+      "churn_rate": 0.1111111111111111
+    },
+    {
+      "signup_cohort": "2020-10",
+      "cohort_size": 70,
+      "avg_mrr": 66.32071428571429,
+      "churn_rate": 0.1
+    },
+    {
+      "signup_cohort": "2020-11",
+      "cohort_size": 67,
+      "avg_mrr": 72.76865671641791,
+      "churn_rate": 0.14925373134328357
+    },
+    {
+      "signup_cohort": "2020-12",
+      "cohort_size": 66,
+      "avg_mrr": 72.49090909090908,
+      "churn_rate": 0.22727272727272727
+    },
+    {
+      "signup_cohort": "2021-01",
+      "cohort_size": 63,
+      "avg_mrr": 63.885714285714286,
+      "churn_rate": 0.14285714285714285
+    },
+    {
+      "signup_cohort": "2021-02",
+      "cohort_size": 69,
+      "avg_mrr": 68.94202898550725,
+      "churn_rate": 0.21739130434782608
+    },
+    {
+      "signup_cohort": "2021-03",
+      "cohort_size": 76,
+      "avg_mrr": 63.112500000000004,
+      "churn_rate": 0.14473684210526316
+    },
+    {
+      "signup_cohort": "2021-04",
+      "cohort_size": 58,
+      "avg_mrr": 71.76206896551724,
+      "churn_rate": 0.10344827586206896
+    },
+    {
+      "signup_cohort": "2021-05",
+      "cohort_size": 50,
+      "avg_mrr": 63.351000000000006,
+      "churn_rate": 0.12
+    },
+    {
+      "signup_cohort": "2021-06",
+      "cohort_size": 67,
+      "avg_mrr": 69.65,
+      "churn_rate": 0.22388059701492538
+    },
+    {
+      "signup_cohort": "2021-07",
+      "cohort_size": 67,
+      "avg_mrr": 66.33059701492537,
+      "churn_rate": 0.208955223880597
+    },
+    {
+      "signup_cohort": "2021-08",
+      "cohort_size": 68,
+      "avg_mrr": 68.76911764705882,
+      "churn_rate": 0.20588235294117646
+    },
+    {
+      "signup_cohort": "2021-09",
+      "cohort_size": 62,
+      "avg_mrr": 68.00887096774194,
+      "churn_rate": 0.20967741935483872
+    },
+    {
+      "signup_cohort": "2021-10",
+      "cohort_size": 60,
+      "avg_mrr": 61.68833333333334,
+      "churn_rate": 0.25
+    },
+    {
+      "signup_cohort": "2021-11",
+      "cohort_size": 56,
+      "avg_mrr": 64.87678571428572,
+      "churn_rate": 0.21428571428571427
+    },
+    {
+      "signup_cohort": "2021-12",
+      "cohort_size": 65,
+      "avg_mrr": 64.2046153846154,
+      "churn_rate": 0.23076923076923078
+    },
+    {
+      "signup_cohort": "2022-01",
+      "cohort_size": 53,
+      "avg_mrr": 65.85566037735849,
+      "churn_rate": 0.18867924528301888
+    },
+    {
+      "signup_cohort": "2022-02",
+      "cohort_size": 85,
+      "avg_mrr": 62.46882352941177,
+      "churn_rate": 0.18823529411764706
+    },
+    {
+      "signup_cohort": "2022-03",
+      "cohort_size": 68,
+      "avg_mrr": 68.56323529411765,
+      "churn_rate": 0.17647058823529413
+    },
+    {
+      "signup_cohort": "2022-04",
+      "cohort_size": 62,
+      "avg_mrr": 66.7491935483871,
+      "churn_rate": 0.20967741935483872
+    },
+    {
+      "signup_cohort": "2022-05",
+      "cohort_size": 68,
+      "avg_mrr": 71.86470588235295,
+      "churn_rate": 0.29411764705882354
+    },
+    {
+      "signup_cohort": "2022-06",
+      "cohort_size": 65,
+      "avg_mrr": 70.58923076923077,
+      "churn_rate": 0.23076923076923078
+    },
+    {
+      "signup_cohort": "2022-07",
+      "cohort_size": 75,
+      "avg_mrr": 68.736,
+      "churn_rate": 0.21333333333333335
+    },
+    {
+      "signup_cohort": "2022-08",
+      "cohort_size": 71,
+      "avg_mrr": 62.74014084507043,
+      "churn_rate": 0.22535211267605634
+    },
+    {
+      "signup_cohort": "2022-09",
+      "cohort_size": 55,
+      "avg_mrr": 67.58909090909091,
+      "churn_rate": 0.2
+    },
+    {
+      "signup_cohort": "2022-10",
+      "cohort_size": 74,
+      "avg_mrr": 60.08986486486486,
+      "churn_rate": 0.17567567567567569
+    },
+    {
+      "signup_cohort": "2022-11",
+      "cohort_size": 77,
+      "avg_mrr": 64.96883116883117,
+      "churn_rate": 0.2077922077922078
+    },
+    {
+      "signup_cohort": "2022-12",
+      "cohort_size": 83,
+      "avg_mrr": 60.733132530120486,
+      "churn_rate": 0.27710843373493976
+    },
+    {
+      "signup_cohort": "2023-01",
+      "cohort_size": 92,
+      "avg_mrr": 60.88804347826087,
+      "churn_rate": 0.25
+    },
+    {
+      "signup_cohort": "2023-02",
+      "cohort_size": 86,
+      "avg_mrr": 59.979651162790695,
+      "churn_rate": 0.13953488372093023
+    },
+    {
+      "signup_cohort": "2023-03",
+      "cohort_size": 88,
+      "avg_mrr": 63.628409090909095,
+      "churn_rate": 0.3181818181818182
+    },
+    {
+      "signup_cohort": "2023-04",
+      "cohort_size": 64,
+      "avg_mrr": 64.92109375,
+      "churn_rate": 0.265625
+    },
+    {
+      "signup_cohort": "2023-05",
+      "cohort_size": 70,
+      "avg_mrr": 61.248571428571424,
+      "churn_rate": 0.24285714285714285
+    },
+    {
+      "signup_cohort": "2023-06",
+      "cohort_size": 72,
+      "avg_mrr": 58.50069444444445,
+      "churn_rate": 0.2777777777777778
+    },
+    {
+      "signup_cohort": "2023-07",
+      "cohort_size": 98,
+      "avg_mrr": 59.08316326530612,
+      "churn_rate": 0.24489795918367346
+    },
+    {
+      "signup_cohort": "2023-08",
+      "cohort_size": 89,
+      "avg_mrr": 62.74943820224719,
+      "churn_rate": 0.30337078651685395
+    },
+    {
+      "signup_cohort": "2023-09",
+      "cohort_size": 80,
+      "avg_mrr": 63.370625,
+      "churn_rate": 0.3625
+    },
+    {
+      "signup_cohort": "2023-10",
+      "cohort_size": 101,
+      "avg_mrr": 59.924257425742574,
+      "churn_rate": 0.3564356435643564
+    },
+    {
+      "signup_cohort": "2023-11",
+      "cohort_size": 75,
+      "avg_mrr": 63.31066666666667,
+      "churn_rate": 0.3333333333333333
+    },
+    {
+      "signup_cohort": "2023-12",
+      "cohort_size": 106,
+      "avg_mrr": 59.469811320754715,
+      "churn_rate": 0.330188679245283
+    },
+    {
+      "signup_cohort": "2024-01",
+      "cohort_size": 116,
+      "avg_mrr": 57.08706896551725,
+      "churn_rate": 0.3275862068965517
+    },
+    {
+      "signup_cohort": "2024-02",
+      "cohort_size": 103,
+      "avg_mrr": 59.533495145631065,
+      "churn_rate": 0.32038834951456313
+    },
+    {
+      "signup_cohort": "2024-03",
+      "cohort_size": 116,
+      "avg_mrr": 57.682327586206895,
+      "churn_rate": 0.3879310344827586
+    },
+    {
+      "signup_cohort": "2024-04",
+      "cohort_size": 119,
+      "avg_mrr": 62.84285714285714,
+      "churn_rate": 0.3697478991596639
+    },
+    {
+      "signup_cohort": "2024-05",
+      "cohort_size": 124,
+      "avg_mrr": 57.63467741935484,
+      "churn_rate": 0.3790322580645161
+    },
+    {
+      "signup_cohort": "2024-06",
+      "cohort_size": 126,
+      "avg_mrr": 59.43849206349206,
+      "churn_rate": 0.373015873015873
+    },
+    {
+      "signup_cohort": "2024-07",
+      "cohort_size": 113,
+      "avg_mrr": 56.195132743362834,
+      "churn_rate": 0.36283185840707965
+    },
+    {
+      "signup_cohort": "2024-08",
+      "cohort_size": 136,
+      "avg_mrr": 61.73345588235294,
+      "churn_rate": 0.4852941176470588
+    },
+    {
+      "signup_cohort": "2024-09",
+      "cohort_size": 174,
+      "avg_mrr": 56.50114942528736,
+      "churn_rate": 0.47126436781609193
+    },
+    {
+      "signup_cohort": "2024-10",
+      "cohort_size": 207,
+      "avg_mrr": 57.299033816425116,
+      "churn_rate": 0.463768115942029
+    },
+    {
+      "signup_cohort": "2024-11",
+      "cohort_size": 248,
+      "avg_mrr": 57.65947580645161,
+      "churn_rate": 0.5241935483870968
+    },
+    {
+      "signup_cohort": "2024-12",
+      "cohort_size": 591,
+      "avg_mrr": 50.4070219966159,
+      "churn_rate": 0.622673434856176
+    },
+    {
+      "signup_cohort": "2025-01",
+      "cohort_size": 11,
+      "avg_mrr": 41.418181818181814,
+      "churn_rate": 0.0
+    }
+  ]
+}

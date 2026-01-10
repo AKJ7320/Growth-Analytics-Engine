@@ -1,0 +1,365 @@
+{
+  "exec_kpis": {
+    "total_customers": 7043,
+    "active_customers": 5174,
+    "total_mrr": 316986.0,
+    "total_arr": 3803829.0,
+    "arpu": 64.76,
+    "blended_cac": 376.0,
+    "blended_ltv": 2744.0,
+    "ltv_cac_ratio": 7.3,
+    "avg_payback_months": 7.7,
+    "monthly_churn_rate": 0.0082,
+    "gross_churn_mrr_pct": 30.5,
+    "total_acq_spend": 2646882.0,
+    "quick_ratio": 0.29
+  },
+  "channel_economics": [
+    {
+      "channel": "Organic Search",
+      "customers": 1998,
+      "pct_customers": 28.4,
+      "total_spend": 357061.0,
+      "avg_cac": 179.0,
+      "avg_ltv": 2481.0,
+      "avg_mrr": 58.72,
+      "ltv_cac_ratio": 13.9,
+      "payback_months": 3.0,
+      "churn_rate": 0.239,
+      "active_mrr": 84327.0,
+      "gross_margin": 4599348.0,
+      "roi_pct": 1288.1,
+      "health": "Scale",
+      "health_color": "green"
+    },
+    {
+      "channel": "Referral",
+      "customers": 947,
+      "pct_customers": 13.4,
+      "total_spend": 262738.0,
+      "avg_cac": 277.0,
+      "avg_ltv": 3095.0,
+      "avg_mrr": 70.06,
+      "ltv_cac_ratio": 11.2,
+      "payback_months": 4.0,
+      "churn_rate": 0.263,
+      "active_mrr": 46746.0,
+      "gross_margin": 2668062.0,
+      "roi_pct": 1015.5,
+      "health": "Scale",
+      "health_color": "green"
+    },
+    {
+      "channel": "Content",
+      "customers": 1039,
+      "pct_customers": 14.8,
+      "total_spend": 249588.0,
+      "avg_cac": 240.0,
+      "avg_ltv": 2609.0,
+      "avg_mrr": 61.59,
+      "ltv_cac_ratio": 10.9,
+      "payback_months": 3.9,
+      "churn_rate": 0.26,
+      "active_mrr": 44356.0,
+      "gross_margin": 2461420.0,
+      "roi_pct": 986.2,
+      "health": "Scale",
+      "health_color": "green"
+    },
+    {
+      "channel": "Paid Search",
+      "customers": 1321,
+      "pct_customers": 18.8,
+      "total_spend": 633819.0,
+      "avg_cac": 480.0,
+      "avg_ltv": 2657.0,
+      "avg_mrr": 64.6,
+      "ltv_cac_ratio": 5.5,
+      "payback_months": 7.4,
+      "churn_rate": 0.282,
+      "active_mrr": 57138.0,
+      "gross_margin": 2875874.0,
+      "roi_pct": 453.7,
+      "health": "Scale",
+      "health_color": "green"
+    },
+    {
+      "channel": "Partnerships",
+      "customers": 860,
+      "pct_customers": 12.2,
+      "total_spend": 650641.0,
+      "avg_cac": 757.0,
+      "avg_ltv": 3578.0,
+      "avg_mrr": 81.62,
+      "ltv_cac_ratio": 4.7,
+      "payback_months": 9.3,
+      "churn_rate": 0.338,
+      "active_mrr": 45655.0,
+      "gross_margin": 2426329.0,
+      "roi_pct": 372.9,
+      "health": "Healthy",
+      "health_color": "blue"
+    },
+    {
+      "channel": "Paid Social",
+      "customers": 878,
+      "pct_customers": 12.5,
+      "total_spend": 493035.0,
+      "avg_cac": 562.0,
+      "avg_ltv": 2438.0,
+      "avg_mrr": 60.27,
+      "ltv_cac_ratio": 4.3,
+      "payback_months": 9.3,
+      "churn_rate": 0.239,
+      "active_mrr": 38764.0,
+      "gross_margin": 1647371.0,
+      "roi_pct": 334.1,
+      "health": "Healthy",
+      "health_color": "blue"
+    }
+  ],
+  "budget_reallocation": [
+    {
+      "channel": "Organic Search",
+      "current_pct": 13.5,
+      "optimized_pct": 35.8,
+      "delta_pct": 22.3,
+      "est_new_customers": 5288.0,
+      "est_total_ltv": 13118542.0
+    },
+    {
+      "channel": "Referral",
+      "current_pct": 9.9,
+      "optimized_pct": 15.2,
+      "delta_pct": 5.3,
+      "est_new_customers": 1454.0,
+      "est_total_ltv": 4499340.0
+    },
+    {
+      "channel": "Content",
+      "current_pct": 9.4,
+      "optimized_pct": 16.5,
+      "delta_pct": 7.0,
+      "est_new_customers": 1816.0,
+      "est_total_ltv": 4738060.0
+    },
+    {
+      "channel": "Paid Search",
+      "current_pct": 23.9,
+      "optimized_pct": 14.9,
+      "delta_pct": -9.1,
+      "est_new_customers": 820.0,
+      "est_total_ltv": 2178931.0
+    },
+    {
+      "channel": "Partnerships",
+      "current_pct": 24.6,
+      "optimized_pct": 8.9,
+      "delta_pct": -15.6,
+      "est_new_customers": 313.0,
+      "est_total_ltv": 1119698.0
+    },
+    {
+      "channel": "Paid Social",
+      "current_pct": 18.6,
+      "optimized_pct": 8.7,
+      "delta_pct": -9.9,
+      "est_new_customers": 412.0,
+      "est_total_ltv": 1003541.0
+    }
+  ],
+  "plan_channel_matrix": [
+    {
+      "plan": "Starter",
+      "channel": "Partnerships",
+      "customers": 65,
+      "avg_ltv": 1054.0,
+      "avg_cac": 756.0,
+      "ltv_cac_ratio": 1.4,
+      "churn_rate": 0.123
+    },
+    {
+      "plan": "Starter",
+      "channel": "Referral",
+      "customers": 200,
+      "avg_ltv": 1020.0,
+      "avg_cac": 275.0,
+      "ltv_cac_ratio": 3.7,
+      "churn_rate": 0.125
+    },
+    {
+      "plan": "Starter",
+      "channel": "Paid Search",
+      "customers": 321,
+      "avg_ltv": 1140.0,
+      "avg_cac": 480.0,
+      "ltv_cac_ratio": 2.4,
+      "churn_rate": 0.118
+    },
+    {
+      "plan": "Starter",
+      "channel": "Content",
+      "customers": 302,
+      "avg_ltv": 1098.0,
+      "avg_cac": 244.0,
+      "ltv_cac_ratio": 4.5,
+      "churn_rate": 0.106
+    },
+    {
+      "plan": "Starter",
+      "channel": "Organic Search",
+      "customers": 694,
+      "avg_ltv": 1093.0,
+      "avg_cac": 178.0,
+      "ltv_cac_ratio": 6.2,
+      "churn_rate": 0.108
+    },
+    {
+      "plan": "Starter",
+      "channel": "Paid Social",
+      "customers": 255,
+      "avg_ltv": 957.0,
+      "avg_cac": 561.0,
+      "ltv_cac_ratio": 1.7,
+      "churn_rate": 0.137
+    },
+    {
+      "plan": "Professional",
+      "channel": "Partnerships",
+      "customers": 220,
+      "avg_ltv": 1680.0,
+      "avg_cac": 766.0,
+      "ltv_cac_ratio": 2.2,
+      "churn_rate": 0.332
+    },
+    {
+      "plan": "Professional",
+      "channel": "Referral",
+      "customers": 289,
+      "avg_ltv": 2033.0,
+      "avg_cac": 274.0,
+      "ltv_cac_ratio": 7.4,
+      "churn_rate": 0.266
+    },
+    {
+      "plan": "Professional",
+      "channel": "Paid Search",
+      "customers": 543,
+      "avg_ltv": 2028.0,
+      "avg_cac": 484.0,
+      "ltv_cac_ratio": 4.2,
+      "churn_rate": 0.273
+    },
+    {
+      "plan": "Professional",
+      "channel": "Content",
+      "customers": 398,
+      "avg_ltv": 2035.0,
+      "avg_cac": 240.0,
+      "ltv_cac_ratio": 8.5,
+      "churn_rate": 0.307
+    },
+    {
+      "plan": "Professional",
+      "channel": "Organic Search",
+      "customers": 690,
+      "avg_ltv": 1928.0,
+      "avg_cac": 179.0,
+      "ltv_cac_ratio": 10.8,
+      "churn_rate": 0.313
+    },
+    {
+      "plan": "Professional",
+      "channel": "Paid Social",
+      "customers": 389,
+      "avg_ltv": 2101.0,
+      "avg_cac": 555.0,
+      "ltv_cac_ratio": 3.8,
+      "churn_rate": 0.283
+    },
+    {
+      "plan": "Business",
+      "channel": "Partnerships",
+      "customers": 575,
+      "avg_ltv": 4589.0,
+      "avg_cac": 753.0,
+      "ltv_cac_ratio": 6.1,
+      "churn_rate": 0.365
+    },
+    {
+      "plan": "Business",
+      "channel": "Referral",
+      "customers": 458,
+      "avg_ltv": 4671.0,
+      "avg_cac": 281.0,
+      "ltv_cac_ratio": 16.6,
+      "churn_rate": 0.321
+    },
+    {
+      "plan": "Business",
+      "channel": "Paid Search",
+      "customers": 457,
+      "avg_ltv": 4470.0,
+      "avg_cac": 475.0,
+      "ltv_cac_ratio": 9.4,
+      "churn_rate": 0.407
+    },
+    {
+      "plan": "Business",
+      "channel": "Content",
+      "customers": 339,
+      "avg_ltv": 4630.0,
+      "avg_cac": 237.0,
+      "ltv_cac_ratio": 19.5,
+      "churn_rate": 0.342
+    },
+    {
+      "plan": "Business",
+      "channel": "Organic Search",
+      "customers": 614,
+      "avg_ltv": 4670.0,
+      "avg_cac": 180.0,
+      "ltv_cac_ratio": 25.9,
+      "churn_rate": 0.303
+    },
+    {
+      "plan": "Business",
+      "channel": "Paid Social",
+      "customers": 234,
+      "avg_ltv": 4612.0,
+      "avg_cac": 572.0,
+      "ltv_cac_ratio": 8.1,
+      "churn_rate": 0.278
+    }
+  ],
+  "recommendations": [
+    {
+      "priority": 1,
+      "area": "Channel Optimization",
+      "action": "Shift 15-20% of Paid Social/Partnerships budget to Organic & Content",
+      "impact": "Reduce blended CAC by ~$50, improve overall LTV:CAC from 7.3x to ~9.5x",
+      "effort": "Medium"
+    },
+    {
+      "priority": 2,
+      "area": "Early Retention",
+      "action": "Implement 90-day onboarding program for monthly-billing customers",
+      "impact": "Reduce early churn by 20-30% \u2192 save ~$57,147 ARR",
+      "effort": "High"
+    },
+    {
+      "priority": 3,
+      "area": "Annual Conversion",
+      "action": "Offer 15% discount for monthly\u2192annual upgrade at month 3",
+      "impact": "Convert 20% of monthly users \u2192 reduce churn from 42.7% to ~30%",
+      "effort": "Low"
+    },
+    {
+      "priority": 4,
+      "area": "Add-on Adoption",
+      "action": "Drive add-on usage in first 30 days (SSO, backup)",
+      "impact": "Customers with 3+ add-ons churn 50% less than 0-addon users",
+      "effort": "Medium"
+    }
+  ]
+}

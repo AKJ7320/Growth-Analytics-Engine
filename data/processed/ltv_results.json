@@ -1,0 +1,370 @@
+{
+  "summary": {
+    "total_customers": 7043,
+    "active_customers": 5174,
+    "total_mrr": 316986.0,
+    "arpu": 64.76,
+    "monthly_churn_rate": 0.0082,
+    "avg_lifetime_months": 122.0,
+    "ltv_formula": 7900.0,
+    "annual_revenue": 3803829.0
+  },
+  "ltv_by_plan": [
+    {
+      "segment": "Business",
+      "customers": 2677,
+      "pct_of_total": 38.0,
+      "arpu": 95.36,
+      "monthly_churn_rate": 0.0083,
+      "avg_lifetime_months": 40.8,
+      "ltv": 11435.0,
+      "avg_cac": 412.0,
+      "ltv_cac_ratio": 27.7,
+      "payback_months": 4.3,
+      "mrr_contribution": 169612.0
+    },
+    {
+      "segment": "Professional",
+      "customers": 2529,
+      "pct_of_total": 35.9,
+      "arpu": 62.8,
+      "monthly_churn_rate": 0.0113,
+      "avg_lifetime_months": 26.2,
+      "ltv": 5571.0,
+      "avg_cac": 374.0,
+      "ltv_cac_ratio": 14.9,
+      "payback_months": 6.0,
+      "mrr_contribution": 110713.0
+    },
+    {
+      "segment": "Starter",
+      "customers": 1837,
+      "pct_of_total": 26.1,
+      "arpu": 22.87,
+      "monthly_churn_rate": 0.004,
+      "avg_lifetime_months": 28.7,
+      "ltv": 5658.0,
+      "avg_cac": 326.0,
+      "ltv_cac_ratio": 17.4,
+      "payback_months": 14.2,
+      "mrr_contribution": 36662.0
+    }
+  ],
+  "ltv_by_channel": [
+    {
+      "segment": "Content",
+      "customers": 1039,
+      "pct_of_total": 14.8,
+      "arpu": 61.59,
+      "monthly_churn_rate": 0.008,
+      "avg_lifetime_months": 32.6,
+      "ltv": 7718.0,
+      "avg_cac": 240.0,
+      "ltv_cac_ratio": 32.1,
+      "payback_months": 3.9,
+      "mrr_contribution": 44356.0
+    },
+    {
+      "segment": "Organic Search",
+      "customers": 1998,
+      "pct_of_total": 28.4,
+      "arpu": 58.72,
+      "monthly_churn_rate": 0.0075,
+      "avg_lifetime_months": 31.7,
+      "ltv": 7786.0,
+      "avg_cac": 179.0,
+      "ltv_cac_ratio": 43.6,
+      "payback_months": 3.0,
+      "mrr_contribution": 84327.0
+    },
+    {
+      "segment": "Paid Search",
+      "customers": 1321,
+      "pct_of_total": 18.8,
+      "arpu": 64.6,
+      "monthly_churn_rate": 0.0087,
+      "avg_lifetime_months": 32.2,
+      "ltv": 7390.0,
+      "avg_cac": 480.0,
+      "ltv_cac_ratio": 15.4,
+      "payback_months": 7.4,
+      "mrr_contribution": 57138.0
+    },
+    {
+      "segment": "Paid Social",
+      "customers": 878,
+      "pct_of_total": 12.5,
+      "arpu": 60.27,
+      "monthly_churn_rate": 0.008,
+      "avg_lifetime_months": 29.9,
+      "ltv": 7542.0,
+      "avg_cac": 562.0,
+      "ltv_cac_ratio": 13.4,
+      "payback_months": 9.3,
+      "mrr_contribution": 38764.0
+    },
+    {
+      "segment": "Partnerships",
+      "customers": 860,
+      "pct_of_total": 12.2,
+      "arpu": 81.62,
+      "monthly_churn_rate": 0.0097,
+      "avg_lifetime_months": 34.9,
+      "ltv": 8422.0,
+      "avg_cac": 757.0,
+      "ltv_cac_ratio": 11.1,
+      "payback_months": 9.3,
+      "mrr_contribution": 45655.0
+    },
+    {
+      "segment": "Referral",
+      "customers": 947,
+      "pct_of_total": 13.4,
+      "arpu": 70.06,
+      "monthly_churn_rate": 0.0078,
+      "avg_lifetime_months": 33.8,
+      "ltv": 9018.0,
+      "avg_cac": 277.0,
+      "ltv_cac_ratio": 32.5,
+      "payback_months": 4.0,
+      "mrr_contribution": 46746.0
+    }
+  ],
+  "ltv_by_billing": [
+    {
+      "segment": "2-Year",
+      "customers": 1695,
+      "pct_of_total": 24.1,
+      "arpu": 60.77,
+      "monthly_churn_rate": 0.0005,
+      "avg_lifetime_months": 56.7,
+      "ltv": 60770.0,
+      "avg_cac": 365.0,
+      "ltv_cac_ratio": 166.5,
+      "payback_months": 6.0,
+      "mrr_contribution": 98841.0
+    },
+    {
+      "segment": "Annual",
+      "customers": 1473,
+      "pct_of_total": 20.9,
+      "arpu": 65.05,
+      "monthly_churn_rate": 0.0027,
+      "avg_lifetime_months": 42.0,
+      "ltv": 24269.0,
+      "avg_cac": 373.0,
+      "ltv_cac_ratio": 65.1,
+      "payback_months": 5.7,
+      "mrr_contribution": 81698.0
+    },
+    {
+      "segment": "Monthly",
+      "customers": 3875,
+      "pct_of_total": 55.0,
+      "arpu": 66.4,
+      "monthly_churn_rate": 0.0237,
+      "avg_lifetime_months": 18.0,
+      "ltv": 2804.0,
+      "avg_cac": 382.0,
+      "ltv_cac_ratio": 7.3,
+      "payback_months": 5.7,
+      "mrr_contribution": 136447.0
+    }
+  ],
+  "ltv_distribution": [
+    {
+      "bin_start": 19.0,
+      "bin_end": 324.0,
+      "count": 704
+    },
+    {
+      "bin_start": 324.0,
+      "bin_end": 628.0,
+      "count": 742
+    },
+    {
+      "bin_start": 628.0,
+      "bin_end": 933.0,
+      "count": 686
+    },
+    {
+      "bin_start": 933.0,
+      "bin_end": 1238.0,
+      "count": 559
+    },
+    {
+      "bin_start": 1238.0,
+      "bin_end": 1543.0,
+      "count": 450
+    },
+    {
+      "bin_start": 1543.0,
+      "bin_end": 1848.0,
+      "count": 437
+    },
+    {
+      "bin_start": 1848.0,
+      "bin_end": 2152.0,
+      "count": 292
+    },
+    {
+      "bin_start": 2152.0,
+      "bin_end": 2457.0,
+      "count": 316
+    },
+    {
+      "bin_start": 2457.0,
+      "bin_end": 2762.0,
+      "count": 220
+    },
+    {
+      "bin_start": 2762.0,
+      "bin_end": 3067.0,
+      "count": 205
+    },
+    {
+      "bin_start": 3067.0,
+      "bin_end": 3372.0,
+      "count": 174
+    },
+    {
+      "bin_start": 3372.0,
+      "bin_end": 3676.0,
+      "count": 155
+    },
+    {
+      "bin_start": 3676.0,
+      "bin_end": 3981.0,
+      "count": 150
+    },
+    {
+      "bin_start": 3981.0,
+      "bin_end": 4286.0,
+      "count": 161
+    },
+    {
+      "bin_start": 4286.0,
+      "bin_end": 4591.0,
+      "count": 166
+    },
+    {
+      "bin_start": 4591.0,
+      "bin_end": 4896.0,
+      "count": 141
+    },
+    {
+      "bin_start": 4896.0,
+      "bin_end": 5201.0,
+      "count": 136
+    },
+    {
+      "bin_start": 5201.0,
+      "bin_end": 5505.0,
+      "count": 131
+    },
+    {
+      "bin_start": 5505.0,
+      "bin_end": 5810.0,
+      "count": 128
+    },
+    {
+      "bin_start": 5810.0,
+      "bin_end": 6115.0,
+      "count": 120
+    },
+    {
+      "bin_start": 6115.0,
+      "bin_end": 6420.0,
+      "count": 113
+    },
+    {
+      "bin_start": 6420.0,
+      "bin_end": 6725.0,
+      "count": 116
+    },
+    {
+      "bin_start": 6725.0,
+      "bin_end": 7029.0,
+      "count": 141
+    },
+    {
+      "bin_start": 7029.0,
+      "bin_end": 7334.0,
+      "count": 98
+    },
+    {
+      "bin_start": 7334.0,
+      "bin_end": 7639.0,
+      "count": 89
+    },
+    {
+      "bin_start": 7639.0,
+      "bin_end": 7944.0,
+      "count": 93
+    },
+    {
+      "bin_start": 7944.0,
+      "bin_end": 8249.0,
+      "count": 73
+    },
+    {
+      "bin_start": 8249.0,
+      "bin_end": 8553.0,
+      "count": 63
+    },
+    {
+      "bin_start": 8553.0,
+      "bin_end": 8858.0,
+      "count": 60
+    },
+    {
+      "bin_start": 8858.0,
+      "bin_end": 9163.0,
+      "count": 124
+    }
+  ],
+  "ltv_percentiles": {
+    "p10": 324.0,
+    "p25": 750.0,
+    "p50": 1806.0,
+    "p75": 4353.0,
+    "p90": 6817.0,
+    "mean": 2744.0
+  },
+  "high_value_profile": {
+    "avg_mrr": 96.78,
+    "avg_addons": 4.2,
+    "annual_pct": 81.2,
+    "churn_rate": 0.108,
+    "top_channels": {
+      "Organic Search": 0.232,
+      "Partnerships": 0.202,
+      "Paid Search": 0.166
+    },
+    "plan_mix": {
+      "Business": 0.894,
+      "Professional": 0.106
+    }
+  },
+  "low_value_profile": {
+    "avg_mrr": 50.04,
+    "avg_addons": 0.7,
+    "annual_pct": 7.0,
+    "churn_rate": 0.631,
+    "top_channels": {
+      "Organic Search": 0.305,
+      "Paid Search": 0.197,
+      "Content": 0.155
+    },
+    "plan_mix": {
+      "Professional": 0.458,
+      "Starter": 0.384,
+      "Business": 0.158
+    }
+  },
+  "revenue_at_risk": {
+    "customers": 501,
+    "annual_revenue": 238799.0,
+    "pct_of_total_mrr": 6.3
+  }
+}
